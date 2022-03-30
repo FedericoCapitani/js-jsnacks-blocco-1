@@ -9,6 +9,7 @@ let somma = 0;
 for (let i = 0; i < 10; i++){
     numeri[i] = Number(prompt('Inserisci un numero'))
     console.log(numeri[i])
+    // somma numeri inseriti dall'utente
     somma = somma + numeri[i]
 }
 
