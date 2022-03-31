@@ -16,5 +16,5 @@ for (let i = 0; i < invitati.length; i++){
 if(boolean){
     console.log(`Prego ${utente}, la festa inizierà a breve`);
 } else {
-    console.log('Spiacenti, il suo nome no risulta nella lista degli invitati');
+    console.log('Spiacenti, il suo nome non risulta nella lista degli invitati');
 }
